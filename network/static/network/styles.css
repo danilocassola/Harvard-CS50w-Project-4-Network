@@ -1,0 +1,50 @@
+body {
+    background-color: #ededed;
+}
+
+#main {
+    margin: auto;
+    width: 50%;
+    padding-top: 10px;
+
+}
+
+.right {
+    text-align: right;
+}
+
+.post {
+    margin: 20px;
+}
+
+#new_post {
+    background-color: white;
+}
+
+#allposts {
+    margin-top: 20px;
+}
+
+.profile {
+    margin: 20px;
+    text-align: center;
+}
+
+#btn-following {
+    margin-top: 20px;
+}
+
+.content {
+    padding: 10px 0 10px 0;
+}
+
+.edit_post_btn {
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.save_post_btn {
+    margin-right: 20px;
+}
